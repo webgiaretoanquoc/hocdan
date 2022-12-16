@@ -1,0 +1,1244 @@
+Uri: http://salecar.ninhbinhweb.com/wp-content/uploads/2018/01/bg-info-footer-1.png
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\uploads\2018\01\bg-info-footer-1.png
+Content Type: image/png
+
+Uri: https://baomoi-photo-3.zadn.vn/17/05/29/284/22397456/1_546596.jpg
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\17\05\29\284\22397456\1_546596.jpg
+Content Type: image/jpeg
+
+Uri: https://baomoi-photo-3.zadn.vn/17/05/29/284/22397456/2_450062.jpg
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\17\05\29\284\22397456\2_450062.jpg
+Content Type: image/jpeg
+
+Uri: https://baomoi-photo-3.zadn.vn/17/05/29/284/22397456/3_441622.jpg
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\17\05\29\284\22397456\3_441622.jpg
+Content Type: image/jpeg
+
+Uri: https://baomoi-photo-3.zadn.vn/17/05/29/284/22397456/4_394204.jpg
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\17\05\29\284\22397456\4_394204.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:regular%2C700%2Cregular%2C500|Dancing+Script:regular%2C400&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\s\dancingscript\v24\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://hocdan.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/am-nhac-la-gi-tac-dung-cua-am-nhac-trong-cuoc-song/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\am-nhac-la-gi-tac-dung-cua-am-nhac-trong-cuoc-song\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/am-nhac-la-gi-tac-dung-cua-am-nhac-trong-cuoc-song/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\am-nhac-la-gi-tac-dung-cua-am-nhac-trong-cuoc-song\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/author/w2steam/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\author\w2steam\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/author/w2steam/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\author\w2steam\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/bat-mi-hoc-dan-organ-trong-bao-lau-thi-co-the-choi-duoc/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\bat-mi-hoc-dan-organ-trong-bao-lau-thi-co-the-choi-duoc\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/bat-mi-hoc-dan-organ-trong-bao-lau-thi-co-the-choi-duoc/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\bat-mi-hoc-dan-organ-trong-bao-lau-thi-co-the-choi-duoc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/cam-nang-hoc-piano-cho-nguoi-moi-bat-dau/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\cam-nang-hoc-piano-cho-nguoi-moi-bat-dau\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/cam-nang-hoc-piano-cho-nguoi-moi-bat-dau/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\cam-nang-hoc-piano-cho-nguoi-moi-bat-dau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/chinh-sach-ban-hang/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\chinh-sach-ban-hang\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/chinh-sach-bao-hanh/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\chinh-sach-bao-hanh\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/chinh-sach-giao-hang/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\chinh-sach-giao-hang\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/chuyen-muc/tin-tuc/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\chuyen-muc\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/chuyen-muc/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\chuyen-muc\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/cung-be-don-trung-thu-trai-nghiem-thu-vi-tai-giusear/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\cung-be-don-trung-thu-trai-nghiem-thu-vi-tai-giusear\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/cung-be-don-trung-thu-trai-nghiem-thu-vi-tai-giusear/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\cung-be-don-trung-thu-trai-nghiem-thu-vi-tai-giusear\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/dan-guitar/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\dan-guitar\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/dan-guitar/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\dan-guitar\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/dan-organ/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\dan-organ\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/dan-organ/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\dan-organ\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/dan-organ/organ-casio/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\dan-organ\organ-casio\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/dan-organ/organ-casio/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\dan-organ\organ-casio\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/dan-organ/organ-roland/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\dan-organ\organ-roland\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/dan-organ/organ-roland/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\dan-organ\organ-roland\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/dan-organ/organ-yamaha/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\dan-organ\organ-yamaha\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/dan-organ/organ-yamaha/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\dan-organ\organ-yamaha\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/dan-ukulele/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\dan-ukulele\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/dan-ukulele/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\dan-ukulele\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/piano-dien/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\piano-dien\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/piano-dien/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\piano-dien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/piano-dien/piano-dien-casio/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\piano-dien\piano-dien-casio\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/piano-dien/piano-dien-casio/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\piano-dien\piano-dien-casio\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/piano-dien/piano-dien-kawai/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\piano-dien\piano-dien-kawai\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/piano-dien/piano-dien-kawai/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\piano-dien\piano-dien-kawai\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/piano-dien/piano-dien-roland/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\piano-dien\piano-dien-roland\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/piano-dien/piano-dien-roland/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\piano-dien\piano-dien-roland\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/piano-dien/piano-dien-yamaha/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\piano-dien\piano-dien-yamaha\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/piano-dien/piano-dien-yamaha/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\piano-dien\piano-dien-yamaha\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/upright-piano/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\upright-piano\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/upright-piano/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\upright-piano\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/upright-piano/piano-cac-dong-khac/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\upright-piano\piano-cac-dong-khac\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/upright-piano/piano-cac-dong-khac/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\upright-piano\piano-cac-dong-khac\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/upright-piano/piano-kawai/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\upright-piano\piano-kawai\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/upright-piano/piano-kawai/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\upright-piano\piano-kawai\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/upright-piano/piano-yamaha/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\upright-piano\piano-yamaha\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/danh-muc/upright-piano/piano-yamaha/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\danh-muc\upright-piano\piano-yamaha\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/giai-dieu-mua-he-2017-san-choi-moi-cho-cac-ban-nho-dam-me-nghe-thuat/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\giai-dieu-mua-he-2017-san-choi-moi-cho-cac-ban-nho-dam-me-nghe-thuat\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/giai-dieu-mua-he-2017-san-choi-moi-cho-cac-ban-nho-dam-me-nghe-thuat/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\giai-dieu-mua-he-2017-san-choi-moi-cho-cac-ban-nho-dam-me-nghe-thuat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/giao-trinh/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\giao-trinh\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/gioi-thieu/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\gioi-thieu\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/goc-nhin-moi-ve-giao-duc-nghe-thuat/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\goc-nhin-moi-ve-giao-duc-nghe-thuat\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/goc-nhin-moi-ve-giao-duc-nghe-thuat/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\goc-nhin-moi-ve-giao-duc-nghe-thuat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/hinh-thuc-thanh-toan/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\hinh-thuc-thanh-toan\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/hoc-phi/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\hoc-phi\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/huong-dan-mua-hang/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\huong-dan-mua-hang\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/huong-dan-thanh-toan/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\huong-dan-thanh-toan\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/lien-he/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\lien-he\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/nhung-loi-ma-nguoi-lon-thuong-gap-phai-khi-hoc-piano/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\nhung-loi-ma-nguoi-lon-thuong-gap-phai-khi-hoc-piano\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/nhung-loi-ma-nguoi-lon-thuong-gap-phai-khi-hoc-piano/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\nhung-loi-ma-nguoi-lon-thuong-gap-phai-khi-hoc-piano\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/noi-quy-lop-hoc/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\noi-quy-lop-hoc\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/phat-huy-suc-manh-giao-duc-nhan-cach-cho-tre-bang-van-hoc-thieu-nhi/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\phat-huy-suc-manh-giao-duc-nhan-cach-cho-tre-bang-van-hoc-thieu-nhi\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/phat-huy-suc-manh-giao-duc-nhan-cach-cho-tre-bang-van-hoc-thieu-nhi/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\phat-huy-suc-manh-giao-duc-nhan-cach-cho-tre-bang-van-hoc-thieu-nhi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/quy-che-hoat-dong/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\quy-che-hoat-dong\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/san-pham/casio-casiotone-ct-s300/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\san-pham\casio-casiotone-ct-s300\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/san-pham/casio-casiotone-ct-s300/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\san-pham\casio-casiotone-ct-s300\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/san-pham/dan-organ-electone-yamaha-el900m/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\san-pham\dan-organ-electone-yamaha-el900m\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/san-pham/dan-organ-electone-yamaha-el900m/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\san-pham\dan-organ-electone-yamaha-el900m\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/san-pham/dan-organ-yamaha-e263/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\san-pham\dan-organ-yamaha-e263\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/san-pham/dan-organ-yamaha-e263/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\san-pham\dan-organ-yamaha-e263\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/san-pham/kohler-campbell-kc115d/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\san-pham\kohler-campbell-kc115d\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/san-pham/kohler-campbell-kc115d/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\san-pham\kohler-campbell-kc115d\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/san-pham/organ-roland-ex20/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\san-pham\organ-roland-ex20\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/san-pham/organ-roland-ex20/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\san-pham\organ-roland-ex20\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/san-pham/upright-piano-kawai-k-300/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\san-pham\upright-piano-kawai-k-300\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/san-pham/upright-piano-kawai-k-300/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\san-pham\upright-piano-kawai-k-300\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/san-pham/upright-piano-kawai-k-800/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\san-pham\upright-piano-kawai-k-800\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/san-pham/upright-piano-kawai-k-800/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\san-pham\upright-piano-kawai-k-800\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/san-pham/upright-piano-kawai-nd-21/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\san-pham\upright-piano-kawai-nd-21\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/san-pham/upright-piano-kawai-nd-21/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\san-pham\upright-piano-kawai-nd-21\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/trang-chu/feed/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\trang-chu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hocdan.webtudong8giay.com/tuyen-dung/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\tuyen-dung\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/video-hoc-vien/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\video-hoc-vien\index.htm
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/wp-admin/css/forms.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-admin\css\forms.min.css
+Content Type: text/css
+
+Uri: https://hocdan.webtudong8giay.com/wp-admin/css/l10n.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-admin\css\l10n.min.css
+Content Type: text/css
+
+Uri: https://hocdan.webtudong8giay.com/wp-admin/css/login.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-admin\css\login.min.css
+Content Type: text/css
+
+Uri: https://hocdan.webtudong8giay.com/wp-admin/images/loading.gif
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-admin\images\loading.gif
+Content Type: image/gif
+
+Uri: https://hocdan.webtudong8giay.com/wp-admin/images/w-logo-blue.png?ver=20131202
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-admin\images\w-logo-blue.png
+Content Type: image/png
+
+Uri: https://hocdan.webtudong8giay.com/wp-admin/images/wordpress-logo.svg?ver=20131107
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-admin\images\wordpress-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-admin\js\password-strength-meter.min-1.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-admin/js/user-profile.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-admin\js\user-profile.min.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/plugins/devvn-woocommerce-reviews/css/devvn-woocommerce-reviews.css?ver=1.0.7
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\plugins\devvn-woocommerce-reviews\css\devvn-woocommerce-reviews.css
+Content Type: text/css
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/plugins/devvn-woocommerce-reviews/images/icon-confirm.png
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\plugins\devvn-woocommerce-reviews\images\icon-confirm.png
+Content Type: image/png
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/plugins/devvn-woocommerce-reviews/images/icon-image.png
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\plugins\devvn-woocommerce-reviews\images\icon-image.png
+Content Type: image/png
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/plugins/devvn-woocommerce-reviews/images/icon-search.png
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\plugins\devvn-woocommerce-reviews\images\icon-search.png
+Content Type: image/png
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/plugins/devvn-woocommerce-reviews/js/devvn-woocommerce-reviews.js?ver=1.0.7
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\plugins\devvn-woocommerce-reviews\js\devvn-woocommerce-reviews.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/plugins/devvn-woocommerce-reviews/library/jquery.validate.min.js?ver=1.0.7
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\plugins\devvn-woocommerce-reviews\library\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/plugins/devvn-woocommerce-reviews/library/magnific-popup/magnific-popup.css?ver=1.0.7
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\plugins\devvn-woocommerce-reviews\library\magnific-popup\magnific-popup.css
+Content Type: text/css
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/plugins/devvn-woocommerce-reviews/library/magnific-popup/magnific-popup.js?ver=1.0.7
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\plugins\devvn-woocommerce-reviews\library\magnific-popup\magnific-popup.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.1.0
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.1.0
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/themes/flatsome/assets/libs/packery.pkgd.min.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\themes\flatsome\assets\libs\packery.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/uploads/2018/03/imgp8010.jpg
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\uploads\2018\03\imgp8010.jpg
+Content Type: image/jpeg
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/uploads/2018/03/img_5411787751b88-150x150.png
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\uploads\2018\03\img_5411787751b88-150x150.png
+Content Type: image/png
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/uploads/2018/03/tải-xuống-150x150.jpg
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\uploads\2018\03\tải-xuống-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/uploads/2018/03/unnamed-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\uploads\2018\03\unnamed-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/uploads/2018/03/unnamed-150x150.jpg
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\uploads\2018\03\unnamed-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/uploads/2020/03/263.jpg
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\uploads\2020\03\263.jpg
+Content Type: image/jpeg
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/uploads/2020/03/cropped-logo-duongcammusic-01-180x180.png
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\uploads\2020\03\cropped-logo-duongcammusic-01-180x180.png
+Content Type: image/png
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/uploads/2020/03/cropped-logo-duongcammusic-01-192x192.png
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\uploads\2020\03\cropped-logo-duongcammusic-01-192x192.png
+Content Type: image/png
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/uploads/2020/03/cropped-logo-duongcammusic-01-32x32.png
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\uploads\2020\03\cropped-logo-duongcammusic-01-32x32.png
+Content Type: image/png
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/uploads/2020/03/dan-organ-casiotone-cts300-gia-tot-2020-400x400-1.jpg
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\uploads\2020\03\dan-organ-casiotone-cts300-gia-tot-2020-400x400-1.jpg
+Content Type: image/jpeg
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/uploads/2020/03/dan-piano-kawai-nd21-chinh-hang-04-400x400-1.jpg
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\uploads\2020\03\dan-piano-kawai-nd21-chinh-hang-04-400x400-1.jpg
+Content Type: image/jpeg
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/uploads/2020/03/dan_piano_koler_campell_KC115D.jpg
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\uploads\2020\03\dan_piano_koler_campell_KC115D.jpg
+Content Type: image/jpeg
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/uploads/2020/03/hoc-dan-organ-de-hay-kho-jpg-150x150.jpg
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\uploads\2020\03\hoc-dan-organ-de-hay-kho-jpg-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/uploads/2020/03/images-2-150x150.jpg
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\uploads\2020\03\images-2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/uploads/2020/03/images-3-150x150.jpg
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\uploads\2020\03\images-3-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/uploads/2020/03/k300_2.jpg
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\uploads\2020\03\k300_2.jpg
+Content Type: image/jpeg
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/uploads/2020/03/k800.jpg
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\uploads\2020\03\k800.jpg
+Content Type: image/jpeg
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/uploads/2020/03/line.png
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\uploads\2020\03\line.png
+Content Type: image/png
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/uploads/2020/03/logo-duong-cam-01.jpg
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\uploads\2020\03\logo-duong-cam-01.jpg
+Content Type: image/jpeg
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/uploads/2020/03/LOGO-DUONG-CAM-300x83.png
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\uploads\2020\03\LOGO-DUONG-CAM-300x83.png
+Content Type: image/png
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/uploads/2020/03/LOGO-DUONG-CAM-510x140.png
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\uploads\2020\03\LOGO-DUONG-CAM-510x140.png
+Content Type: image/png
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/uploads/2020/03/LOGO-DUONG-CAM-768x211.png
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\uploads\2020\03\LOGO-DUONG-CAM-768x211.png
+Content Type: image/png
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/uploads/2020/03/LOGO-DUONG-CAM.png
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\uploads\2020\03\LOGO-DUONG-CAM.png
+Content Type: image/png
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/uploads/2020/03/nhan-day-kem-dan-piano-tai-nha-150x150.jpg
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\uploads\2020\03\nhan-day-kem-dan-piano-tai-nha-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/uploads/2020/03/organ-nha-tho-e900m.jpg
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\uploads\2020\03\organ-nha-tho-e900m.jpg
+Content Type: image/jpeg
+
+Uri: https://hocdan.webtudong8giay.com/wp-content/uploads/2020/03/roland-ex20.jpg
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-content\uploads\2020\03\roland-ex20.jpg
+Content Type: image/jpeg
+
+Uri: https://hocdan.webtudong8giay.com/wp-includes/css/buttons.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-includes\css\buttons.min.css
+Content Type: text/css
+
+Uri: https://hocdan.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://hocdan.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://hocdan.webtudong8giay.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://hocdan.webtudong8giay.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://hocdan.webtudong8giay.com/wp-includes/js/comment-reply.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-includes/js/wp-util.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://hocdan.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fam-nhac-la-gi-tac-dung-cua-am-nhac-trong-cuoc-song%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fam-nhac-la-gi-tac-dung-cua-am-nhac-trong-cuoc-song%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fbat-mi-hoc-dan-organ-trong-bao-lau-thi-co-the-choi-duoc%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fbat-mi-hoc-dan-organ-trong-bao-lau-thi-co-the-choi-duoc%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fcam-nang-hoc-piano-cho-nguoi-moi-bat-dau%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fcam-nang-hoc-piano-cho-nguoi-moi-bat-dau%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fchinh-sach-ban-hang%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fchinh-sach-ban-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fchinh-sach-bao-hanh%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fchinh-sach-bao-hanh%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fchinh-sach-giao-hang%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-52
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fchinh-sach-giao-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-53
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fcung-be-don-trung-thu-trai-nghiem-thu-vi-tai-giusear%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fcung-be-don-trung-thu-trai-nghiem-thu-vi-tai-giusear%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fgiai-dieu-mua-he-2017-san-choi-moi-cho-cac-ban-nho-dam-me-nghe-thuat%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fgiai-dieu-mua-he-2017-san-choi-moi-cho-cac-ban-nho-dam-me-nghe-thuat%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fgiao-trinh%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fgiao-trinh%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fgioi-thieu%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fgioi-thieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fgoc-nhin-moi-ve-giao-duc-nghe-thuat%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fgoc-nhin-moi-ve-giao-duc-nghe-thuat%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fhinh-thuc-thanh-toan%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-54
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fhinh-thuc-thanh-toan%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-55
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fhoc-phi%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fhoc-phi%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fhuong-dan-mua-hang%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-56
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fhuong-dan-mua-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-57
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fhuong-dan-thanh-toan%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fhuong-dan-thanh-toan%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fnhung-loi-ma-nguoi-lon-thuong-gap-phai-khi-hoc-piano%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fnhung-loi-ma-nguoi-lon-thuong-gap-phai-khi-hoc-piano%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fnoi-quy-lop-hoc%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fnoi-quy-lop-hoc%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fphat-huy-suc-manh-giao-duc-nhan-cach-cho-tre-bang-van-hoc-thieu-nhi%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fphat-huy-suc-manh-giao-duc-nhan-cach-cho-tre-bang-van-hoc-thieu-nhi%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fsan-pham%2Fcasio-casiotone-ct-s300%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fsan-pham%2Fcasio-casiotone-ct-s300%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fsan-pham%2Fdan-organ-electone-yamaha-el900m%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fsan-pham%2Fdan-organ-electone-yamaha-el900m%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fsan-pham%2Fdan-organ-yamaha-e263%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fsan-pham%2Fdan-organ-yamaha-e263%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fsan-pham%2Fkohler-campbell-kc115d%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fsan-pham%2Fkohler-campbell-kc115d%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fsan-pham%2Forgan-roland-ex20%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fsan-pham%2Forgan-roland-ex20%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fsan-pham%2Fupright-piano-kawai-k-300%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fsan-pham%2Fupright-piano-kawai-k-300%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fsan-pham%2Fupright-piano-kawai-k-800%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fsan-pham%2Fupright-piano-kawai-k-800%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fsan-pham%2Fupright-piano-kawai-nd-21%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fsan-pham%2Fupright-piano-kawai-nd-21%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Ftuyen-dung%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-58
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Ftuyen-dung%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-59
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fvideo-hoc-vien%2F
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhocdan.webtudong8giay.com%2Fvideo-hoc-vien%2F&format=xml
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/pages/1010
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\pages\1010
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/pages/1013
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\pages\1013
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/pages/1016
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\pages\1016
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/pages/1019
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\pages\1019
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/pages/1022
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\pages\1022
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/pages/1029
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\pages\1029
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/pages/25
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\pages\25
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/pages/27
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\pages\27
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/pages/29
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\pages\29
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/pages/31
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\pages\31
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/pages/33
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\pages\33
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/pages/43
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\pages\43
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/pages/62
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\pages\62
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/posts/540
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\posts\540
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/posts/542
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\posts\542
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/posts/545
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\posts\545
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/posts/584
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\posts\584
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/posts/981
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\posts\981
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/posts/984
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\posts\984
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/posts/987
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\posts\987
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/posts/990
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\posts\990
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/product/911
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\product\911
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/product/917
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\product\917
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/product/921
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\product\921
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/product/924
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\product\924
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/product/939
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\product\939
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/product/942
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\product\942
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/product/945
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\product\945
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/product/948
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\product\948
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/product_cat/15
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\product_cat\15
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/product_cat/18
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\product_cat\18
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/product_cat/19
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\product_cat\19
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/product_cat/20
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\product_cat\20
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/product_cat/21
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\product_cat\21
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/product_cat/22
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\product_cat\22
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/product_cat/23
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\product_cat\23
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/product_cat/24
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\product_cat\24
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/product_cat/25
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\product_cat\25
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/product_cat/26
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\product_cat\26
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/product_cat/27
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\product_cat\27
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/product_cat/28
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\product_cat\28
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/product_cat/29
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\product_cat\29
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/product_cat/30
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\product_cat\30
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/product_cat/31
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\product_cat\31
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://hocdan.webtudong8giay.com/wp-login.php
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-login.php-2.html
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/wp-login.php?action=lostpassword
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-login.php.html
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fhocdan.webtudong8giay.com%2Fwp-admin%2Fwidgets.php&reauth=1
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\wp-login.php-1.html
+Content Type: text/html
+
+Uri: https://hocdan.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\xmlrpc.php.html
+Content Type: text/html
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhocdan.webtudong8giay.com%252Fam-nhac-la-gi-tac-dung-cua-am-nhac-trong-cuoc-song%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhocdan.webtudong8giay.com%252Fbat-mi-hoc-dan-organ-trong-bao-lau-thi-co-the-choi-duoc%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhocdan.webtudong8giay.com%252Fcam-nang-hoc-piano-cho-nguoi-moi-bat-dau%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\login-11.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhocdan.webtudong8giay.com%252Fcung-be-don-trung-thu-trai-nghiem-thu-vi-tai-giusear%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\login-12.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhocdan.webtudong8giay.com%252Fgiai-dieu-mua-he-2017-san-choi-moi-cho-cac-ban-nho-dam-me-nghe-thuat%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\login-14.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhocdan.webtudong8giay.com%252Fgoc-nhin-moi-ve-giao-duc-nghe-thuat%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\login-13.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhocdan.webtudong8giay.com%252Fnhung-loi-ma-nguoi-lon-thuong-gap-phai-khi-hoc-piano%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\login-10.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhocdan.webtudong8giay.com%252Fphat-huy-suc-manh-giao-duc-nhan-cach-cho-tre-bang-van-hoc-thieu-nhi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\login-15.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhocdan.webtudong8giay.com%252Fsan-pham%252Fcasio-casiotone-ct-s300%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhocdan.webtudong8giay.com%252Fsan-pham%252Fdan-organ-electone-yamaha-el900m%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhocdan.webtudong8giay.com%252Fsan-pham%252Fdan-organ-yamaha-e263%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhocdan.webtudong8giay.com%252Fsan-pham%252Fkohler-campbell-kc115d%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhocdan.webtudong8giay.com%252Fsan-pham%252Forgan-roland-ex20%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhocdan.webtudong8giay.com%252Fsan-pham%252Fupright-piano-kawai-k-300%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhocdan.webtudong8giay.com%252Fsan-pham%252Fupright-piano-kawai-k-800%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhocdan.webtudong8giay.com%252Fsan-pham%252Fupright-piano-kawai-nd-21%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://webtudong8giay.com/web-builder/assets/login/nen-admin.jpg
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\web-builder\assets\login\nen-admin.jpg
+Content Type: image/jpeg
+
+Uri: https://webtudong8giay.com/web-builder/assets/login/style.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\hocdan.webtudong8giay.com\web-builder\assets\login\style.css
+Content Type: text/css
+
